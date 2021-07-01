@@ -1,0 +1,46 @@
+## 项目中的设计模式总结
+### 项目名称说明
+#### 项目命名
+
+masenlin-design-{typeId}-{patternId}-{示例序号}
+
+#### typeId 设计模式大类
+
+- 1-创建型模式（Creational Patterns）
+- 2-结构型模式（Structural Patterns）
+- 3-行为模式（Behavioral Patterns）
+
+#### patternId 具体设计模式
+
+- 11-工厂模式（Factory Pattern）
+- 12-抽象工厂模式（Abstract Factory Pattern）
+- 13-建造者模式（Builder Pattern）
+- 14-原型模式（Prototype Pattern）
+- 15-单例模式（Singleton Pattern）
+
+- 21-适配器模式（Adapter Pattern）
+- 22-桥接模式（Bridge Pattern）
+- 23-过滤器模式（Filter、Criteria Pattern）
+- 24-组合模式（Composite Pattern）
+- 25-装饰器模式（Decorator Pattern）
+- 26-外观模式（Facade Pattern）
+- 27-享元模式（Flyweight Pattern）
+- 28-代理模式（Proxy Pattern）
+
+- 31-责任链模式（Chain of Responsibility Pattern）
+- 32-命令模式（Command Pattern）
+- 33-解释器模式（Interpreter Pattern）
+- 34-迭代器模式（Iterator Pattern）
+- 35-中介者模式（Mediator Pattern）
+- 36-备忘录模式（Memento Pattern）
+- 37-观察者模式（Observer Pattern）
+- 38-状态模式（State Pattern）
+- 39-策略模式（Strategy Pattern）
+- 40-模板模式（Template Pattern）
+- 41-访问者模式（Visitor Pattern）
+
+#### 示例序号
+
+当前设计模式下的第几个示例，从01开始，如01、02...
+
+### 实例目录
